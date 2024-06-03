@@ -1,6 +1,6 @@
 
 
-# 作业二 linux-0.11添加wait3
+# 作业二 linux-0.11添加wait3（范文，utime和stime的取值有误，用了父进程）
 
 
 
